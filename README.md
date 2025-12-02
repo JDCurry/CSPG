@@ -1,5 +1,8 @@
 # CSPG
 
+[![DOI](https://zenodo.org/badge/1108262007.svg)](https://doi.org/10.5281/zenodo.17794992)
+
+
 # Requirements
 
 Install required Python packages:
