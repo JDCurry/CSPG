@@ -1,0 +1,147 @@
+{
+ "core_trajectory_days_1_3_7_28": {
+  "with_mmp": [
+   0.7999999999999999,
+   1.3743148374781948,
+   2.5412719464440414,
+   3.8054323225633184,
+   4.45754957427234
+  ],
+  "without_mmp": [
+   0.7999999999999999,
+   1.3773429764693745,
+   2.543199267890467,
+   3.806108929119609,
+   4.457551696142031
+  ],
+  "max_abs_difference": 0.0030281389911797074
+ },
+ "sweep": [
+  {
+   "target": 4.5,
+   "gamma": 0.0,
+   "with_mmp": {
+    "core_S": 4.457537160040171,
+    "healthy_min": 0.8547992158962935,
+    "healthy_max": 0.8561438420850278,
+    "cross_mean": 0.0,
+    "cross_sd": 0.0
+   },
+   "without_mmp": {
+    "core_S": 4.457540377675141,
+    "healthy_min": 0.8561501524019458,
+    "healthy_max": 0.8561501524019458,
+    "cross_mean": 0.0,
+    "cross_sd": 0.0
+   }
+  },
+  {
+   "target": 4.0,
+   "gamma": 0.003,
+   "with_mmp": {
+    "core_S": 3.5167431508664038,
+    "healthy_min": 0.12379822557392603,
+    "healthy_max": 0.12401065455833896,
+    "cross_mean": 2.933333333333333,
+    "cross_sd": 0.9761602782785669
+   },
+   "without_mmp": {
+    "core_S": 3.516743694295049,
+    "healthy_min": 0.12401165151612273,
+    "healthy_max": 0.12401165151612273,
+    "cross_mean": 22.93333333333333,
+    "cross_sd": 3.2088765773848147
+   }
+  },
+  {
+   "target": 3.5,
+   "gamma": 0.006,
+   "with_mmp": {
+    "core_S": 2.889001304327005,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 26.58666666666667,
+    "cross_sd": 3.0035238563320177
+   },
+   "without_mmp": {
+    "core_S": 2.8890013893403057,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 29.013333333333335,
+    "cross_sd": 3.014159178868222
+   }
+  },
+  {
+   "target": 3.0,
+   "gamma": 0.009,
+   "with_mmp": {
+    "core_S": 2.445329775170678,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 27.706666666666663,
+    "cross_sd": 2.1439734658391227
+   },
+   "without_mmp": {
+    "core_S": 2.4453297878311684,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 28.4,
+    "cross_sd": 3.081125335544359
+   }
+  },
+  {
+   "target": 2.5,
+   "gamma": 0.012,
+   "with_mmp": {
+    "core_S": 2.116962485104218,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 26.96,
+    "cross_sd": 2.0385615843857474
+   },
+   "without_mmp": {
+    "core_S": 2.116962486927662,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 27.439999999999994,
+    "cross_sd": 2.2380944275581105
+   }
+  },
+  {
+   "target": 2.0,
+   "gamma": 0.016,
+   "with_mmp": {
+    "core_S": 1.7934861479392215,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 27.76,
+    "cross_sd": 2.793516302678996
+   },
+   "without_mmp": {
+    "core_S": 1.793486148072003,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 30.426666666666666,
+    "cross_sd": 2.6146935235744584
+   }
+  },
+  {
+   "target": 1.5,
+   "gamma": 0.022,
+   "with_mmp": {
+    "core_S": 1.4573410027059959,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 28.133333333333336,
+    "cross_sd": 3.2386554137309655
+   },
+   "without_mmp": {
+    "core_S": 1.4573410027084717,
+    "healthy_min": 0.1,
+    "healthy_max": 0.1,
+    "cross_mean": 29.866666666666667,
+    "cross_sd": 2.2279038479152447
+   }
+  }
+ ]
+}

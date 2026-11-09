@@ -1,0 +1,197 @@
+{
+ "original_conditional": [
+  {
+   "target": 4.5,
+   "gamma": 0.0,
+   "core_S": 4.457537160040171,
+   "healthy_S": 0.8561428739521706,
+   "cross_mean": 0.0,
+   "cross_sd": 0.0,
+   "fraction_of_crossers_through_core": null
+  },
+  {
+   "target": 4.0,
+   "gamma": 0.003,
+   "core_S": 3.5167431508664038,
+   "healthy_S": 0.12401050159497198,
+   "cross_mean": 2.933333333333333,
+   "cross_sd": 0.9761602782785669,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 3.5,
+   "gamma": 0.006,
+   "core_S": 2.889001304327005,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 26.58666666666667,
+   "cross_sd": 3.0035238563320177,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 3.0,
+   "gamma": 0.009,
+   "core_S": 2.445329775170678,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 28.293333333333337,
+   "cross_sd": 2.531789002969156,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 2.5,
+   "gamma": 0.012,
+   "core_S": 2.116962485104218,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 27.786666666666672,
+   "cross_sd": 2.700584298916728,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 2.0,
+   "gamma": 0.016,
+   "core_S": 1.7934861479392215,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 28.64,
+   "cross_sd": 2.5289787134994492,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 1.5,
+   "gamma": 0.022,
+   "core_S": 1.4573410027059959,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 29.013333333333332,
+   "cross_sd": 3.232721591614237,
+   "fraction_of_crossers_through_core": 0.0
+  }
+ ],
+ "fixed_default": [
+  {
+   "target": 4.5,
+   "gamma": 0.0,
+   "core_S": 4.457537160040171,
+   "healthy_S": 0.8561428739521706,
+   "cross_mean": 0.0,
+   "cross_sd": 0.0,
+   "fraction_of_crossers_through_core": null
+  },
+  {
+   "target": 4.0,
+   "gamma": 0.003,
+   "core_S": 3.5167431508664038,
+   "healthy_S": 0.12401050159497198,
+   "cross_mean": 2.933333333333333,
+   "cross_sd": 0.9761602782785669,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 3.5,
+   "gamma": 0.006,
+   "core_S": 2.889001304327005,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 26.58666666666667,
+   "cross_sd": 3.0035238563320177,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 3.0,
+   "gamma": 0.009,
+   "core_S": 2.445329775170678,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 27.706666666666663,
+   "cross_sd": 2.1439734658391227,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 2.5,
+   "gamma": 0.012,
+   "core_S": 2.116962485104218,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 26.96,
+   "cross_sd": 2.0385615843857474,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 2.0,
+   "gamma": 0.016,
+   "core_S": 1.7934861479392215,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 27.76,
+   "cross_sd": 2.793516302678996,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 1.5,
+   "gamma": 0.022,
+   "core_S": 1.4573410027059959,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 28.133333333333336,
+   "cross_sd": 3.2386554137309655,
+   "fraction_of_crossers_through_core": 0.0
+  }
+ ],
+ "fixed_permissive": [
+  {
+   "target": 4.5,
+   "gamma": 0.0,
+   "core_S": 4.457537160040171,
+   "healthy_S": 0.8561428739521706,
+   "cross_mean": 0.0,
+   "cross_sd": 0.0,
+   "fraction_of_crossers_through_core": null
+  },
+  {
+   "target": 4.0,
+   "gamma": 0.003,
+   "core_S": 3.5167431508664038,
+   "healthy_S": 0.12401050159497198,
+   "cross_mean": 3.2533333333333334,
+   "cross_sd": 1.0210234516840877,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 3.5,
+   "gamma": 0.006,
+   "core_S": 2.889001304327005,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 28.026666666666664,
+   "cross_sd": 2.2837007003740415,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 3.0,
+   "gamma": 0.009,
+   "core_S": 2.445329775170678,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 28.080000000000002,
+   "cross_sd": 2.8517129355295685,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 2.5,
+   "gamma": 0.012,
+   "core_S": 2.116962485104218,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 28.133333333333333,
+   "cross_sd": 1.995550606279435,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 2.0,
+   "gamma": 0.016,
+   "core_S": 1.7934861479392215,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 28.64,
+   "cross_sd": 2.5289787134994492,
+   "fraction_of_crossers_through_core": 0.0
+  },
+  {
+   "target": 1.5,
+   "gamma": 0.022,
+   "core_S": 1.4573410027059959,
+   "healthy_S": 0.10000000000000002,
+   "cross_mean": 29.013333333333332,
+   "cross_sd": 3.232721591614237,
+   "fraction_of_crossers_through_core": 0.0
+  }
+ ]
+}

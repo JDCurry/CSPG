@@ -1,0 +1,80 @@
+{
+ "rows": [
+  {
+   "budget": 25,
+   "crossing": 0.0,
+   "sd": 0.0,
+   "crossing_200step_cap": 0.0
+  },
+  {
+   "budget": 50,
+   "crossing": 0.20000000000000004,
+   "sd": 0.20519567041703085,
+   "crossing_200step_cap": 0.26
+  },
+  {
+   "budget": 75,
+   "crossing": 7.939999999999998,
+   "sd": 1.8774002181067753,
+   "crossing_200step_cap": 8.22
+  },
+  {
+   "budget": 100,
+   "crossing": 29.2,
+   "sd": 2.8931861875429776,
+   "crossing_200step_cap": 29.8
+  },
+  {
+   "budget": 125,
+   "crossing": 53.42,
+   "sd": 3.8068636075273017,
+   "crossing_200step_cap": 49.36
+  },
+  {
+   "budget": 150,
+   "crossing": 74.5,
+   "sd": 2.131962278722292,
+   "crossing_200step_cap": 51.46
+  },
+  {
+   "budget": 175,
+   "crossing": 87.32000000000001,
+   "sd": 1.8855684609826913,
+   "crossing_200step_cap": 49.239999999999995
+  },
+  {
+   "budget": 200,
+   "crossing": 93.80000000000001,
+   "sd": 2.150152993332526,
+   "crossing_200step_cap": 50.82000000000001
+  },
+  {
+   "budget": 250,
+   "crossing": 98.76,
+   "sd": 0.5789282293487185,
+   "crossing_200step_cap": 50.8
+  },
+  {
+   "budget": 300,
+   "crossing": 99.69999999999999,
+   "sd": 0.2865401597645517,
+   "crossing_200step_cap": 50.300000000000004
+  },
+  {
+   "budget": 400,
+   "crossing": 100.0,
+   "sd": 0.0,
+   "crossing_200step_cap": 49.7
+  }
+ ],
+ "B_ref": 200.0,
+ "healthy_step_cost": 0.85,
+ "straight_path_steps": 31,
+ "unlimited_walk": {
+  "crossing": 100.0,
+  "steps_mean": 149.313,
+  "steps_median": 140.0,
+  "steps_p90": 218.0,
+  "rows_per_step": 0.20761755506888216
+ }
+}

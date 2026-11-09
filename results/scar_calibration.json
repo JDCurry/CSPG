@@ -1,0 +1,136 @@
+{
+ "t_h": [
+  0.0,
+  24.0,
+  72.0,
+  168.0,
+  672.0
+ ],
+ "target": [
+  1.0,
+  1.5,
+  3.0,
+  4.0,
+  4.2
+ ],
+ "note": "Target is a stylized aggregate trajectory, not measured data.",
+ "grid_2025": {
+  "params": {
+   "alpha_peak": 0.028,
+   "alpha_acute": 0.012,
+   "eta_secondary": 0.018,
+   "eta_onset": 36.0,
+   "delta_feedback": 0.00025
+  },
+  "r2": 0.9559820069648013,
+  "pred": [
+   0.7999999999999999,
+   1.3773429764693745,
+   2.543199267890467,
+   3.806108929119609,
+   4.457551696142031
+  ],
+  "on_grid_edge": {
+   "alpha_peak": true,
+   "alpha_acute": true,
+   "eta_secondary": true,
+   "eta_onset": true,
+   "delta_feedback": true
+  }
+ },
+ "grid_extended": {
+  "params": {
+   "alpha_peak": 0.031,
+   "alpha_acute": 0.014,
+   "eta_secondary": 0.021,
+   "eta_onset": 30.0,
+   "delta_feedback": 0.00035
+  },
+  "r2": 0.9823702350439766,
+  "pred": [
+   0.7999999999999999,
+   1.4648964253022816,
+   2.733030032280372,
+   3.9038956406409673,
+   4.359695098247003
+  ]
+ },
+ "least_squares": {
+  "params": {
+   "alpha_peak": 0.017121479539856686,
+   "alpha_acute": 0.0006002558236579614,
+   "eta_secondary": 0.051671122192012746,
+   "eta_onset": 11.710154493345236,
+   "delta_feedback": 0.0006251501800754437
+  },
+  "r2": 0.9952099742666829,
+  "pred": [
+   0.7999999999999999,
+   1.500609646800037,
+   2.9988696104428167,
+   4.001848468833982,
+   4.198891560618618
+  ],
+  "fold_change_vs_used": {
+   "alpha_peak": 0.6114814121377388,
+   "alpha_acute": 0.050021318638163455,
+   "eta_secondary": 2.870617899556264,
+   "eta_onset": 0.3252820692595899,
+   "delta_feedback": 2.5006007203017746
+  },
+  "bounds_relative_to_reference": [
+   0.05,
+   20
+  ],
+  "at_bound": {
+   "alpha_peak": false,
+   "alpha_acute": true,
+   "eta_secondary": false,
+   "eta_onset": false,
+   "delta_feedback": false
+  },
+  "pred_64grid": [
+   0.7999999999999998,
+   1.504874174964643,
+   2.9980487863368923,
+   4.00004307580876,
+   4.19889084718797
+  ],
+  "r2_64grid": 0.9952072800656333
+ },
+ "used_params": {
+  "alpha_acute": 0.012,
+  "tau_acute": 24.0,
+  "alpha_peak": 0.028,
+  "alpha_onset": 3.0,
+  "alpha_width": 6.0,
+  "eta_secondary": 0.018,
+  "eta_onset": 36.0,
+  "eta_width": 12.0,
+  "delta_feedback": 0.00025,
+  "S_max": 5.0
+ },
+ "used_pred": [
+  0.7999999999999999,
+  1.3773429764693745,
+  2.543199267890467,
+  3.806108929119609,
+  4.457551696142031
+ ],
+ "used_r2": 0.9559820069648013,
+ "used_residuals": [
+  -0.20000000000000007,
+  -0.12265702353062546,
+  -0.45680073210953287,
+  -0.19389107088039115,
+  0.25755169614203055
+ ],
+ "used_pred_64grid": [
+  0.7999999999999998,
+  1.378787157147485,
+  2.543038574095931,
+  3.804121228081795,
+  4.457511618866095
+ ],
+ "used_r2_64grid": 0.9559163044569098
+}
