@@ -4,6 +4,11 @@ Code and result files for *What Sets a Scar-Density Threshold for Axon Crossing?
 Implementation and Calibration Sensitivity in a Computational Model of the CSPG
 Scar after Spinal Cord Injury* (J. D. Curry, draft, November 2026).
 
+[![DOI](https://zenodo.org/badge/1108262007.svg)](https://doi.org/10.5281/zenodo.17794992)
+
+
+# Requirements
+
 The model has two parts:
 
 - **`scar_model.py`**: chondroitin sulfate proteoglycan (CSPG) accumulation in a
